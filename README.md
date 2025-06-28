@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 3 Python AI Projects 🚀
 
 A collection of three AI projects built with Python, LangChain, and modern AI providers.
@@ -129,3 +130,6 @@ If you encounter any issues:
 ---
 
 **Happy coding! 🎉** 
+=======
+# Python-Chatbot
+>>>>>>> 6a62a5e841e4d03890f97c965ed0b93b12e6a2c3
